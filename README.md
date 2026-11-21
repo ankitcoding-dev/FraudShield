@@ -48,3 +48,7 @@ Missing optional fields are treated as zero/default values.
 The total is capped at 100. LOW = 0–29, MEDIUM = 30–59, HIGH = 60–100.
 
 These weights and thresholds are illustrative and must be calibrated and validated for the intended environment. A high score is an alert for review, not proof of fraud.
+
+
+
+web link -: https://fraudshieldd.streamlit.app
